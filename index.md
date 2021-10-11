@@ -1,23 +1,12 @@
-## Priyanka Dutta
+## Priyanka Dutta , Computer Science and Engineering, UCSC, Hardware Systems Collective 
 
 ### Email address: pdutta1@ucsc.edu
 
-# Header 1
-## Header 2
-### Header 3
+# Priyanka Dutta
+## EX-QUALCOMM 
+### Pursuing research on a high performance RTL simulator as a part of Vertical Architectures, Memories, and Algorithms (VAMA) group at UCSC
 
-- Bulleted
-- List
+- B.Tech, St Thomas College of Engineering & Technology, 2014 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MSPDUTTA/mspduta.gitgub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
